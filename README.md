@@ -1,6 +1,6 @@
 # WEEDO_F192C
 
-Hello! 
+*** Hello! ***
 
 The information here will help you to update the WEEDO F192C.
 
@@ -14,7 +14,7 @@ Remember: any FLASH process may result in the destruction of your board , do it 
 
 SPANISH EDITION:
 
-Hola! 
+*** Hola! ***
 
 La información aqui vertida les servira para poder actualizar la WEEDO F192C.
 
